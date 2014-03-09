@@ -1,0 +1,11 @@
+LOG:  database system was shut down at 2014-03-06 08:23:30 CST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "andrewwittrock" does not exist
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2014-03-09 17:00:49 CDT
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
